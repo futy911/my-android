@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="3.2&quot; HVGA slider (ADP1)"
+        activity="com.example.hello.MainActivity"
+        config="layout-ldltr-sw320dp-w533dp-h320dp-normal-long-land-notnight-hdpi-finger-keyssoft-nokeys-navexposed-trackball-800x480-v23"
+        device="3.2&quot; HVGA slider (ADP1)"
+        target="Android 6.0"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>
