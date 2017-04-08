@@ -30,5 +30,12 @@
         android:layout_alignBottom="@+id/baidu"
         android:layout_centerHorizontal="true"
         android:text="localWeb" />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/teacher_listView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+  
 
 </RelativeLayout>
