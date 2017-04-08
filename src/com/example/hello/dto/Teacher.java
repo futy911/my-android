@@ -4,12 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.example.hello.R;
-import com.example.hello.R.drawable;
 
 public class Teacher {
 	private String name;
     private int imageId;
-    private String desc;
+    private String desc; 
     
   //构造函数
     public Teacher(String name, int imageId, String desc) {

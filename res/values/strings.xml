@@ -4,7 +4,8 @@
     <string name="app_name">my app</string>
     <string name="app_name1">my</string>
     <string name="action_settings">设置</string>
-    
     <string name="title_activity_teacher">详情</string>
+    <string name="title_activity_local_web">LocalWebActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
